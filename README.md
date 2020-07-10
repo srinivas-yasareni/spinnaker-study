@@ -1,4 +1,4 @@
 # spinnaker-study
 Simple Quarkus Microservice for CI/CD Demo
 
-Manual Judgement test:1
+Manual Judgement test: Approve/Disapprove
